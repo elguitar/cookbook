@@ -1,2 +1,2 @@
 # cookbook
-A collection of decent recipes
+A collection of decent recipes.
